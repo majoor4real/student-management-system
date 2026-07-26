@@ -1,0 +1,23 @@
+[
+    {
+        "student_id": "2345",
+        "name": "ibrahim majeed",
+        "age": 34,
+        "gender": "male",
+        "department": "computer science"
+    },
+    {
+        "student_id": "34",
+        "name": "mustapha ibrahim",
+        "age": 23,
+        "gender": "male",
+        "department": "mathematics"
+    },
+    {
+        "student_id": "89",
+        "name": "ibrahim m",
+        "age": 23,
+        "gender": "male",
+        "department": "biology"
+    }
+]
